@@ -9,13 +9,12 @@ require (
 	github.com/jenkins-x/jx-logging v0.0.11
 	github.com/jenkins-x/jx/v2 v2.1.148
 	github.com/jenkins-x/lighthouse v0.0.826
-	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.6.1
-	github.com/tektoncd/pipeline v0.14.2
+	github.com/tektoncd/pipeline v0.16.3
 	k8s.io/apimachinery v0.18.1
 	k8s.io/client-go v11.0.1-0.20190805182717-6502b5e7b1b5+incompatible
 	k8s.io/test-infra v0.0.0-20200514184223-ba32c8aae783
